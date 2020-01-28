@@ -1,0 +1,1 @@
+This directory contents about the concept the git and github.
